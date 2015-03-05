@@ -1,4 +1,4 @@
-# Prolog_auction
+# Prolog_Auction
 
 Prolog code
 
