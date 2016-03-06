@@ -2,4 +2,4 @@
 
 a practice for writing programs in Prolog
 
-Function Description is inside the pdf file
+Task Description is inside the pdf file
